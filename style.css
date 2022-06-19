@@ -1,0 +1,13 @@
+h3{
+    color: red;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    height: auto;
+    width: 500px;
+    margin-left: 500px; ;
+
+}
